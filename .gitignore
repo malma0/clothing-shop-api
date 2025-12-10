@@ -1,0 +1,22 @@
+# Приватные ключи
+*.key
+*.pem
+*.crt
+
+# Базы данных
+*.db
+*.sqlite
+*.db-journal
+
+# Логи
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Системные файлы
+.DS_Store
+Thumbs.db
