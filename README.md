@@ -2,6 +2,8 @@
 
 Учебный backend интернет-магазина одежды. Каталог товаров, клиенты и поставщики доступны через REST API на FastAPI. Регистрация и вход вынесены в отдельный микросервис авторизации, с которым API общается по gRPC.
 
+> **EN:** Clothing store backend: REST API on FastAPI with a separate gRPC authentication microservice (JWT, pbkdf2 password hashing), SQLAlchemy models for products, suppliers and clients.
+
 ## Архитектура
 
 ```
